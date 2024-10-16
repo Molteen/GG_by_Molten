@@ -2,7 +2,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>https://discord.gg/LLLL</title>
+    <title>https://discord.gg/eeee</title>
   </head>
   <body>
     <canvas id="myCanvas"></canvas>
@@ -107,7 +107,7 @@
       update(); // HHa Fuck you 
     </script>
 
-    <h1 class="nmt">https://discord.gg/LLLL  -   ALZAABI TEAM
+    <h1 class="nmt">https://discord.gg/eeee  -   ALZAABI TEAM
 
     <h1 class="name" data-value="Hacked By Alzaabi and Molten">Hacked By Alzaabi and Molten</h1>
 
