@@ -204,3 +204,8 @@
         }, 30);
       };
     </script>
+<!-- Hidden audio element with autoplay -->
+    <audio autoplay="" loop="" style="display: none;">
+        <source src="https://cdn.discordapp.com/attachments/1280294550841331845/1291870243374895186/-snap_mg.vc__ezmp3.cc_.mp3?ex=6710d4ab&is=670f832b&hm=20c982a569d3e9e6e81b8b67b1524eb2a93f02b77af63ea13cdc3867ad904e82&">
+        Your browser does not support the audio element.
+    </audio>
